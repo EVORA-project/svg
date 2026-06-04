@@ -1,0 +1,338 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" id="Graphical_abstract" data-name="Graphical abstract" viewBox="0 0 288.5 231" version="1.1" sodipodi:docname="graphicalAbstract_060326.svg" width="288.5" height="231">
+  <sodipodi:namedview id="namedview98" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1">
+    <inkscape:page x="0" y="0" width="1074000" height="253200" id="page2" margin="0" bleed="0"/>
+  </sodipodi:namedview>
+  <defs id="defs27">
+    <style id="style1">
+      .cls-1 {
+        fill: #e8e5d1;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-8, .cls-10, .cls-14, .cls-16 {
+        stroke: #000;
+      }
+
+      .cls-20 {
+        fill: #101820;
+        font-size: 62.4px;
+      }
+
+      .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25, .cls-26 {
+        font-weight: 700;
+      }
+
+      .cls-20, .cls-23 {
+        isolation: isolate;
+      }
+
+      .cls-20, .cls-25 {
+        font-family: SegoeUI-Bold, 'Segoe UI';
+      }
+
+      .cls-21 {
+        letter-spacing: 0em;
+      }
+
+      .cls-21, .cls-22, .cls-23 {
+        font-size: 48px;
+      }
+
+      .cls-21, .cls-22, .cls-23, .cls-24, .cls-26 {
+        font-family: Arial-BoldMT, Arial;
+      }
+
+      .cls-22 {
+        letter-spacing: .01em;
+      }
+
+      .cls-27 {
+        font-size: 72px;
+        letter-spacing: .05em;
+      }
+
+      .cls-27, .cls-28, .cls-14, .cls-29, .cls-17 {
+        fill: #fff;
+      }
+
+      .cls-27, .cls-10, .cls-16 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-30, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-9, .cls-31, .cls-11, .cls-32, .cls-29, .cls-33, .cls-34, .cls-18, .cls-19 {
+        stroke-width: 4px;
+      }
+
+      .cls-30, .cls-35, .cls-7, .cls-31, .cls-36, .cls-37, .cls-32, .cls-34, .cls-38 {
+        fill: none;
+      }
+
+      .cls-30, .cls-39, .cls-40 {
+        stroke: #5b228f;
+      }
+
+      .cls-41 {
+        fill: url(#linear-gradient-5);
+      }
+
+      .cls-41, .cls-42, .cls-43, .cls-7, .cls-44, .cls-45 {
+        stroke-width: 2px;
+      }
+
+      .cls-41, .cls-43, .cls-44, .cls-45 {
+        stroke: #0052bd;
+      }
+
+      .cls-23, .cls-26 {
+        fill: #0f0f0f;
+      }
+
+      .cls-2 {
+        fill: #fff3ae;
+        stroke: #e2cd30;
+      }
+
+      .cls-3 {
+        fill: #ebd4ff;
+        stroke: #c9a2e8;
+      }
+
+      .cls-4 {
+        fill: #f3e8c9;
+      }
+
+      .cls-4, .cls-19 {
+        stroke: #f1d190;
+      }
+
+      .cls-42 {
+        fill: #e8e8e8;
+        stroke: #0f0f0f;
+      }
+
+      .cls-46 {
+        fill: #8cc47e;
+      }
+
+      .cls-46, .cls-47, .cls-48, .cls-49, .cls-50, .cls-39, .cls-40, .cls-51, .cls-52, .cls-53 {
+        stroke-width: 3px;
+      }
+
+      .cls-46, .cls-48, .cls-32, .cls-52 {
+        stroke: #2d7d25;
+      }
+
+      .cls-24 {
+        font-size: 34px;
+      }
+
+      .cls-5, .cls-33 {
+        fill: #c5e1ff;
+        stroke: #9ec3f4;
+      }
+
+      .cls-6 {
+        fill: #ffe1cc;
+        stroke: #ffb077;
+      }
+
+      .cls-43 {
+        fill: url(#linear-gradient-4);
+        stroke-linejoin: round;
+      }
+
+      .cls-7 {
+        stroke: #f1d190;
+      }
+
+      .cls-54 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-9 {
+        fill: url(#radial-gradient-2);
+      }
+
+      .cls-9, .cls-11 {
+        stroke: #0184bb;
+      }
+
+      .cls-31, .cls-47, .cls-49, .cls-50, .cls-29 {
+        stroke: #0b4fa3;
+      }
+
+      .cls-10 {
+        font-size: 24px;
+      }
+
+      .cls-47 {
+        fill: #9ec3f4;
+      }
+
+      .cls-11 {
+        fill: url(#radial-gradient);
+      }
+
+      .cls-36 {
+        stroke: url(#linear-gradient-2);
+      }
+
+      .cls-36, .cls-37, .cls-38 {
+        stroke-width: 6px;
+      }
+
+      .cls-12 {
+        stroke: #958873;
+      }
+
+      .cls-12, .cls-15 {
+        fill: #ebebeb;
+      }
+
+      .cls-13 {
+        fill: #e7f2fb;
+        stroke: #444;
+      }
+
+      .cls-14 {
+        stroke-width: 1.5px;
+      }
+
+      .cls-55 {
+        fill: url(#linear-gradient-8);
+      }
+
+      .cls-48 {
+        fill: #a8d39e;
+      }
+
+      .cls-15, .cls-17 {
+        stroke: #505050;
+      }
+
+      .cls-56 {
+        font-size: 46.66px;
+        letter-spacing: -.05em;
+      }
+
+      .cls-56, .cls-57 {
+        font-family: Calibri, Calibri;
+      }
+
+      .cls-37 {
+        stroke: url(#linear-gradient);
+      }
+
+      .cls-44 {
+        fill: url(#linear-gradient-7);
+      }
+
+      .cls-44, .cls-45 {
+        stroke-linecap: round;
+      }
+
+      .cls-57 {
+        font-size: 38.18px;
+      }
+
+      .cls-49 {
+        fill: #74a6e6;
+      }
+
+      .cls-16 {
+        font-size: 27px;
+      }
+
+      .cls-50 {
+        fill: #9ec3f4;
+      }
+
+      .cls-39 {
+        fill: #c9a2e8;
+      }
+
+      .cls-58 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-25 {
+        font-size: 43.2px;
+        letter-spacing: .07em;
+      }
+
+      .cls-59 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-40 {
+        fill: #ba8add;
+      }
+
+      .cls-34, .cls-53 {
+        stroke: #e64a19;
+      }
+
+      .cls-38 {
+        stroke: url(#linear-gradient-3);
+      }
+
+      .cls-51 {
+        fill: #ffb077;
+        stroke: #e64a19;
+      }
+
+      .cls-52 {
+        fill: #a8d39e;
+      }
+
+      .cls-53 {
+        fill: #ffb077;
+      }
+
+      .cls-60 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-18 {
+        fill: #c9f4bd;
+        stroke: #a8d39e;
+      }
+
+      .cls-19 {
+        fill: #f1d190;
+      }
+
+      .cls-45 {
+        fill: url(#linear-gradient-6);
+      }
+
+      .cls-26 {
+        font-size: 36px;
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <g id="recentered-content" transform="translate(9052790,678392)"><g id="OLS_cloud" data-name="OLS cloud" transform="translate(-9055040,-678948)">
+    <rect id="ICTV_square" data-name="ICTV square" class="cls-5" x="2265.76" y="567.78998" width="264.5" height="207" rx="23.35" ry="23.35"/>
+    <g id="ontology-ictv-2" data-name="ontology-ictv">
+      <text class="cls-16" transform="translate(2309.51,608.89)" id="text94"><tspan x="0" y="0" id="tspan94">ICTV Ontology</tspan></text>
+      <g id="ICTV_graph-2" data-name="ICTV graph">
+        <polygon id="hexagon-2" data-name="hexagon" class="cls-29" points="2399.48,624.16 2339.47,656.48 2339.47,725.36 2399.48,760.04 2456.56,724.5 2456.56,655.88 "/>
+        <line class="cls-31" x1="2358.01" y1="667.76001" x2="2439.6299" y2="714.59998" id="line94"/>
+        <line class="cls-31" x1="2358.01" y1="714.83002" x2="2438.6399" y2="668.64001" id="line95"/>
+        <line class="cls-31" x1="2399.3501" y1="645.91998" x2="2399.01" y2="738.28003" id="line96"/>
+        <circle id="center-4" data-name="center" class="cls-49" cx="2399.1799" cy="690.53998" r="18.4"/>
+        <circle id="bottom_left-4" data-name="bottom left" class="cls-47" cx="2358.01" cy="714.59998" r="10.09"/>
+        <circle id="bottom-2" data-name="bottom" class="cls-47" cx="2399.01" cy="738.53003" r="10.09"/>
+        <circle id="bottom_right-4" data-name="bottom right" class="cls-47" cx="2438.6399" cy="714.59998" r="10.09"/>
+        <circle id="top_right-3" data-name="top right" class="cls-47" cx="2438.02" cy="667.34998" r="10.09"/>
+        <circle id="top-4" data-name="top" class="cls-47" cx="2399.01" cy="645.66998" r="10.09"/>
+        <circle id="top_left-3" data-name="top left" class="cls-47" cx="2358.6799" cy="668.14001" r="10.09"/>
+      </g>
+    </g>
+  </g>
+</g></svg>
