@@ -1,0 +1,374 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" id="Graphical_abstract" data-name="Graphical abstract" viewBox="0 0 600.50 485.00" version="1.1" sodipodi:docname="graphicalAbstract_060326.svg" width="600.50" height="485.00">
+  <sodipodi:namedview id="namedview98" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:export-bgcolor="#ffffff00">
+    <inkscape:page x="0" y="0" width="2242000" height="533999.94" id="page2" margin="0" bleed="0"/>
+  </sodipodi:namedview>
+  <defs id="defs27">
+    <style id="style1">
+      .cls-1 {
+        fill: #e8e5d1;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-8, .cls-10, .cls-14, .cls-16 {
+        stroke: #000;
+      }
+
+      .cls-20 {
+        fill: #101820;
+        font-size: 62.4px;
+      }
+
+      .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25, .cls-26 {
+        font-weight: 700;
+      }
+
+      .cls-20, .cls-23 {
+        isolation: isolate;
+      }
+
+      .cls-20, .cls-25 {
+        font-family: SegoeUI-Bold, 'Segoe UI';
+      }
+
+      .cls-21 {
+        letter-spacing: 0em;
+      }
+
+      .cls-21, .cls-22, .cls-23 {
+        font-size: 48px;
+      }
+
+      .cls-21, .cls-22, .cls-23, .cls-24, .cls-26 {
+        font-family: Arial-BoldMT, Arial;
+      }
+
+      .cls-22 {
+        letter-spacing: .01em;
+      }
+
+      .cls-27 {
+        font-size: 72px;
+        letter-spacing: .05em;
+      }
+
+      .cls-27, .cls-28, .cls-14, .cls-29, .cls-17 {
+        fill: #fff;
+      }
+
+      .cls-27, .cls-10, .cls-16 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-30, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-9, .cls-31, .cls-11, .cls-32, .cls-29, .cls-33, .cls-34, .cls-18, .cls-19 {
+        stroke-width: 4px;
+      }
+
+      .cls-30, .cls-35, .cls-7, .cls-31, .cls-36, .cls-37, .cls-32, .cls-34, .cls-38 {
+        fill: none;
+      }
+
+      .cls-30, .cls-39, .cls-40 {
+        stroke: #5b228f;
+      }
+
+      .cls-41 {
+        fill: url(#linear-gradient-5);
+      }
+
+      .cls-41, .cls-42, .cls-43, .cls-7, .cls-44, .cls-45 {
+        stroke-width: 2px;
+      }
+
+      .cls-41, .cls-43, .cls-44, .cls-45 {
+        stroke: #0052bd;
+      }
+
+      .cls-23, .cls-26 {
+        fill: #0f0f0f;
+      }
+
+      .cls-2 {
+        fill: #fff3ae;
+        stroke: #e2cd30;
+      }
+
+      .cls-3 {
+        fill: #ebd4ff;
+        stroke: #c9a2e8;
+      }
+
+      .cls-4 {
+        fill: #f3e8c9;
+      }
+
+      .cls-4, .cls-19 {
+        stroke: #f1d190;
+      }
+
+      .cls-42 {
+        fill: #e8e8e8;
+        stroke: #0f0f0f;
+      }
+
+      .cls-46 {
+        fill: #8cc47e;
+      }
+
+      .cls-46, .cls-47, .cls-48, .cls-49, .cls-50, .cls-39, .cls-40, .cls-51, .cls-52, .cls-53 {
+        stroke-width: 3px;
+      }
+
+      .cls-46, .cls-48, .cls-32, .cls-52 {
+        stroke: #2d7d25;
+      }
+
+      .cls-24 {
+        font-size: 34px;
+      }
+
+      .cls-5, .cls-33 {
+        fill: #c5e1ff;
+        stroke: #9ec3f4;
+      }
+
+      .cls-6 {
+        fill: #ffe1cc;
+        stroke: #ffb077;
+      }
+
+      .cls-43 {
+        fill: url(#linear-gradient-4);
+        stroke-linejoin: round;
+      }
+
+      .cls-7 {
+        stroke: #f1d190;
+      }
+
+      .cls-54 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-9 {
+        fill: url(#radial-gradient-2);
+      }
+
+      .cls-9, .cls-11 {
+        stroke: #0184bb;
+      }
+
+      .cls-31, .cls-47, .cls-49, .cls-50, .cls-29 {
+        stroke: #0b4fa3;
+      }
+
+      .cls-10 {
+        font-size: 24px;
+      }
+
+      .cls-47 {
+        fill: #9ec3f4;
+      }
+
+      .cls-11 {
+        fill: url(#radial-gradient);
+      }
+
+      .cls-36 {
+        stroke: url(#linear-gradient-2);
+      }
+
+      .cls-36, .cls-37, .cls-38 {
+        stroke-width: 6px;
+      }
+
+      .cls-12 {
+        stroke: #958873;
+      }
+
+      .cls-12, .cls-15 {
+        fill: #ebebeb;
+      }
+
+      .cls-13 {
+        fill: #e7f2fb;
+        stroke: #444;
+      }
+
+      .cls-14 {
+        stroke-width: 1.5px;
+      }
+
+      .cls-55 {
+        fill: url(#linear-gradient-8);
+      }
+
+      .cls-48 {
+        fill: #a8d39e;
+      }
+
+      .cls-15, .cls-17 {
+        stroke: #505050;
+      }
+
+      .cls-56 {
+        font-size: 46.66px;
+        letter-spacing: -.05em;
+      }
+
+      .cls-56, .cls-57 {
+        font-family: Calibri, Calibri;
+      }
+
+      .cls-37 {
+        stroke: url(#linear-gradient);
+      }
+
+      .cls-44 {
+        fill: url(#linear-gradient-7);
+      }
+
+      .cls-44, .cls-45 {
+        stroke-linecap: round;
+      }
+
+      .cls-57 {
+        font-size: 38.18px;
+      }
+
+      .cls-49 {
+        fill: #74a6e6;
+      }
+
+      .cls-16 {
+        font-size: 27px;
+      }
+
+      .cls-50 {
+        fill: #9ec3f4;
+      }
+
+      .cls-39 {
+        fill: #c9a2e8;
+      }
+
+      .cls-58 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-25 {
+        font-size: 43.2px;
+        letter-spacing: .07em;
+      }
+
+      .cls-59 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-40 {
+        fill: #ba8add;
+      }
+
+      .cls-34, .cls-53 {
+        stroke: #e64a19;
+      }
+
+      .cls-38 {
+        stroke: url(#linear-gradient-3);
+      }
+
+      .cls-51 {
+        fill: #ffb077;
+        stroke: #e64a19;
+      }
+
+      .cls-52 {
+        fill: #a8d39e;
+      }
+
+      .cls-53 {
+        fill: #ffb077;
+      }
+
+      .cls-60 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-18 {
+        fill: #c9f4bd;
+        stroke: #a8d39e;
+      }
+
+      .cls-19 {
+        fill: #f1d190;
+      }
+
+      .cls-45 {
+        fill: url(#linear-gradient-6);
+      }
+
+      .cls-26 {
+        font-size: 36px;
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <g id="OLS_cloud" data-name="OLS cloud" transform="translate(-2243.76,-311.79)">
+    <rect id="GO_square" data-name="GO square" class="cls-18" x="2557.76" y="333.79001" width="264.5" height="207" rx="23.35" ry="23.35"/>
+    <rect id="NCBI_square" data-name="NCBI square" class="cls-3" x="2265.76" y="333.79001" width="264.5" height="207" rx="23.35" ry="23.35"/>
+    <rect id="COVID_square" data-name="COVID square" class="cls-6" x="2557.76" y="567.78998" width="264.5" height="207" rx="23.35" ry="23.35"/>
+    <rect id="ICTV_square" data-name="ICTV square" class="cls-5" x="2265.76" y="567.78998" width="264.5" height="207" rx="23.35" ry="23.35" inkscape:export-filename="ICTV_square.svg" inkscape:export-xdpi="96" inkscape:export-ydpi="96"/>
+    <g id="ontology-cid">
+      <text id="COVID_ontology" data-name="COVID ontology" class="cls-10" transform="translate(2568.99,603.36)"><tspan x="0" y="0" id="tspan87">Coronavirus Infectious</tspan><tspan x="28.01" y="36" id="tspan88">Disease Ontology</tspan></text>
+      <path class="cls-34" d="m 2629.48,670.86 59.87,0.02 31.39,53.82 44.6,-30.65 m -75.98,-23.17 -38.4,34.35 -55,18.78 m 54.99,-18.78 v 31" id="path88"/>
+      <circle id="upper_left" data-name="upper left" class="cls-53" cx="2629.6899" cy="671.28998" r="9.6000004"/>
+      <circle id="upper_middle" data-name="upper middle" class="cls-53" cx="2689.3601" cy="670.88" r="9.6000004"/>
+      <circle id="_2nd_right" data-name="2nd right" class="cls-53" cx="2720.74" cy="724.70001" r="9.6000004"/>
+      <circle id="far_right" data-name="far right" class="cls-53" cx="2765.3401" cy="694.04999" r="9.6000004"/>
+      <circle id="lower_center" data-name="lower center" class="cls-53" cx="2650.95" cy="705.22998" r="9.6000004"/>
+      <circle id="lower_left" data-name="lower left" class="cls-53" cx="2595.9199" cy="724.09003" r="9.6000004"/>
+      <circle id="lower_right" data-name="lower right" class="cls-51" cx="2650.95" cy="738.13" r="9.6000004"/>
+    </g>
+    <g id="ontology-ncbi" inkscape:export-filename="ontology-ncbi.svg" inkscape:export-xdpi="300" inkscape:export-ydpi="300">
+      <text class="cls-16" transform="translate(2311.6,372.59)" id="text92"><tspan x="0" y="0" id="tspan89">NCBI</tspan><tspan class="cls-54" x="64.510002" y="0" id="tspan90">T</tspan><tspan x="79" y="0" id="tspan91">AXON</tspan><tspan x="23.719999" y="36" id="tspan92">Ontology</tspan></text>
+      <path class="cls-30" d="m 2393.76,470.61 27.24,35.72 m -27.24,-35.72 -52.95,-8.74 m 52.95,8.74 -31.93,44.05 m 31.93,-44.05 49.85,-14.4 m -49.85,14.4 v 0 l -0.2,-42.31" id="path92"/>
+      <circle id="center-2" data-name="center" class="cls-40" cx="2393.76" cy="470.60999" r="14.4"/>
+      <circle id="bottom_right-2" data-name="bottom right" class="cls-39" cx="2421.3401" cy="506.82999" r="9.6000004"/>
+      <circle id="left" class="cls-39" cx="2340.8101" cy="461.88" r="9.6000004"/>
+      <circle id="bottom_left-2" data-name="bottom left" class="cls-39" cx="2361.8401" cy="514.65997" r="9.6000004"/>
+      <circle id="right" class="cls-39" cx="2443.6101" cy="456.20999" r="9.6000004"/>
+      <circle id="top-2" data-name="top" class="cls-39" cx="2393.5601" cy="434.42001" r="9.6000004"/>
+    </g>
+    <g id="ontology-go">
+      <text class="cls-16" transform="translate(2612.93,372.58)" id="text93"><tspan x="0" y="0" id="tspan93">GO Ontology</tspan></text>
+      <path class="cls-32" d="m 2687.97,460.04 -29.27,45.33 m 29.27,-45.33 2.45,-45.34 m -2.45,45.34 -35.19,-16.73 -36.76,25.77 m 71.95,-9.04 29.61,34.24 m -29.61,-34.24 71.49,7.27 m -71.49,-7.27 54.08,-44.27" id="path93"/>
+      <circle id="center-3" data-name="center" class="cls-46" cx="2687.97" cy="460.04001" r="14.4"/>
+      <circle id="bottom_left-3" data-name="bottom left" class="cls-52" cx="2658.71" cy="505.37" r="9.6000004"/>
+      <circle id="top-3" data-name="top" class="cls-52" cx="2690.4199" cy="414.70001" r="9.6000004"/>
+      <circle id="left_middle" data-name="left middle" class="cls-52" cx="2616.26" cy="469.64001" r="9.6000004"/>
+      <circle id="top_left-2" data-name="top left" class="cls-52" cx="2653.51" cy="445.63" r="9.6000004"/>
+      <circle id="bottom_right-3" data-name="bottom right" class="cls-52" cx="2717.6499" cy="494.26001" r="9.6000004"/>
+      <circle id="right-2" data-name="right" class="cls-52" cx="2759.46" cy="467.31" r="9.6000004"/>
+      <circle id="top_right-2" data-name="top right" class="cls-48" cx="2742.0601" cy="415.76999" r="9.6000004"/>
+    </g>
+    <g id="ontology-ictv-2" data-name="ontology-ictv">
+      <text class="cls-16" transform="translate(2309.51,608.89)" id="text94"><tspan x="0" y="0" id="tspan94">ICTV Ontology</tspan></text>
+      <g id="ICTV_graph-2" data-name="ICTV graph">
+        <polygon id="hexagon-2" data-name="hexagon" class="cls-29" points="2399.48,624.16 2339.47,656.48 2339.47,725.36 2399.48,760.04 2456.56,724.5 2456.56,655.88 "/>
+        <line class="cls-31" x1="2358.01" y1="667.76001" x2="2439.6299" y2="714.59998" id="line94"/>
+        <line class="cls-31" x1="2358.01" y1="714.83002" x2="2438.6399" y2="668.64001" id="line95"/>
+        <line class="cls-31" x1="2399.3501" y1="645.91998" x2="2399.01" y2="738.28003" id="line96"/>
+        <circle id="center-4" data-name="center" class="cls-49" cx="2399.1799" cy="690.53998" r="18.4"/>
+        <circle id="bottom_left-4" data-name="bottom left" class="cls-47" cx="2358.01" cy="714.59998" r="10.09"/>
+        <circle id="bottom-2" data-name="bottom" class="cls-47" cx="2399.01" cy="738.53003" r="10.09"/>
+        <circle id="bottom_right-4" data-name="bottom right" class="cls-47" cx="2438.6399" cy="714.59998" r="10.09"/>
+        <circle id="top_right-3" data-name="top right" class="cls-47" cx="2438.02" cy="667.34998" r="10.09"/>
+        <circle id="top-4" data-name="top" class="cls-47" cx="2399.01" cy="645.66998" r="10.09"/>
+        <circle id="top_left-3" data-name="top left" class="cls-47" cx="2358.6799" cy="668.14001" r="10.09"/>
+      </g>
+    </g>
+  </g>
+</svg>
