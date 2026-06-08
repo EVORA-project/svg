@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="122"
+   height="74"
+   viewBox="0 0 122 74"
+   role="img"
+   aria-labelledby="title desc"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="people_icon_vector_fixed.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="10.351351"
+     inkscape:cx="61.006527"
+     inkscape:cy="37"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="1913"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g5" />
+  <title
+     id="title">Three-person group icon</title>
+  <desc
+     id="desc">A gold outline vector icon showing a central person with two smaller people on each side, matching the original reference more closely.</desc>
+  <g
+     fill="none"
+     stroke="#bd8d21"
+     stroke-width="4"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="g5">
+    <!-- heads -->
+    <circle
+       cx="61"
+       cy="16"
+       r="14"
+       id="circle1" />
+    <circle
+       cx="27"
+       cy="26"
+       r="10"
+       id="circle2" />
+    <circle
+       cx="95"
+       cy="26"
+       r="10"
+       id="circle3" />
+    <!-- bodies / shoulders without overlap -->
+    <path
+       d="m 10.80034,60.011711 c 0,-9.574083 4.654839,-16.537053 12.10258,-18.277795 6.516773,-1.740743 13.033546,1.740742 17.688385,7.833341"
+       id="path3"
+       style="stroke-width:3.60064" />
+    <path
+       d="M37 63 C37 48, 47 39, 61 39 C75 39, 85 48, 85 63"
+       id="path4" />
+    <path
+       d="m 81.314962,49.439469 c 4.744509,-5.996424 11.386821,-9.422953 18.029132,-7.709689 7.591216,1.713265 12.335716,8.566321 12.335716,17.989273"
+       id="path5"
+       style="stroke-width:3.60635" />
+  </g>
+</svg>
