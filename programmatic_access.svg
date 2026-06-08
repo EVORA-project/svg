@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="230" viewBox="0 0 420 230" role="img" aria-labelledby="title desc">
+  <title id="title">Programmatic access via OLS API</title>
+  <desc id="desc">Three vector icons representing browser code, terminal access, and curly braces connected by a dashed fork connector, with the label programmatic access via OLS API.</desc>
+  <defs>
+    <style>
+      .label { font-family: Arial, Helvetica, sans-serif; fill: #2f3b4f; text-anchor: middle; }
+      .dark { fill: #334259; }
+      .dark2 { fill: #2f3b4f; }
+      .teal { fill: #11aec6; }
+      .teal-stroke { stroke: #11aec6; }
+      .blue { fill: #2877ff; }
+      .fork { fill: none; stroke: #11aec6; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; stroke-dasharray: 7 8; }
+      .icon-stroke-dark { stroke: #334259; stroke-width: 3; stroke-linejoin: round; }
+      .icon-stroke-teal { stroke: #11aec6; stroke-width: 3; stroke-linejoin: round; }
+    </style>
+  </defs>
+
+  <!-- dashed fork connector -->
+  <path class="fork" d="M210 10 V38 M90 38 H330 M90 38 V58 M210 38 V58 M330 38 V58"/>
+
+  <!-- left browser/code icon -->
+  <g transform="translate(50 58)">
+    <rect x="0" y="0" width="82" height="82" rx="10" class="dark"/>
+    <rect x="0" y="0" width="82" height="18" rx="10" class="dark2"/>
+    <rect x="0" y="9" width="82" height="73" rx="0" fill="#ffffff"/>
+    <path d="M0 10 Q0 0 10 0 H72 Q82 0 82 10 V18 H0 Z" class="dark2"/>
+    <circle cx="10" cy="9" r="3.6" fill="#ff5b58"/>
+    <circle cx="24" cy="9" r="3.6" fill="#f3c949"/>
+    <circle cx="38" cy="9" r="3.6" fill="#57d04d"/>
+    <path d="M31 51 L18 40 L31 29" fill="none" stroke="#2877ff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M51 24 L40 56" fill="none" stroke="#2877ff" stroke-width="6" stroke-linecap="round"/>
+    <path d="M51 29 L64 40 L51 51" fill="none" stroke="#2877ff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="1.5" y="1.5" width="79" height="79" rx="10" fill="none" stroke="#334259" stroke-width="3"/>
+  </g>
+
+  <!-- center terminal icon -->
+  <g transform="translate(169 58)">
+    <rect x="0" y="0" width="82" height="82" rx="10" class="dark"/>
+    <path d="M25 31 L40 42 L25 53" fill="none" stroke="#29c4e8" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M50 52 H66" fill="none" stroke="#e4edf1" stroke-width="6" stroke-linecap="round"/>
+    <rect x="1.5" y="1.5" width="79" height="79" rx="10" fill="none" stroke="#2f3b4f" stroke-width="3"/>
+  </g>
+
+  <!-- right braces icon -->
+  <g transform="translate(288 58)">
+    <rect x="0" y="0" width="82" height="82" rx="10" fill="#ffffff" stroke="#11aec6" stroke-width="4"/>
+    <path d="M34 24
+             C28 24, 26 26, 26 32
+             V38
+             C26 43, 23 46, 18 46
+             C23 46, 26 49, 26 54
+             V60
+             C26 66, 28 68, 34 68"
+          fill="none" stroke="#11aec6" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M48 24
+             C54 24, 56 26, 56 32
+             V38
+             C56 43, 59 46, 64 46
+             C59 46, 56 49, 56 54
+             V60
+             C56 66, 54 68, 48 68"
+          fill="none" stroke="#11aec6" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- label -->
+  <text x="210" y="182" class="label" font-size="19" font-weight="500">programmatic access</text>
+  <text x="210" y="208" class="label" font-size="19" font-weight="500">via OLS API</text>
+</svg>
