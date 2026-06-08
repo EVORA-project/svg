@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="420"
+   height="230"
+   viewBox="0 0 420 230"
+   role="img"
+   aria-labelledby="title desc"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="programmatic_access.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.6652174"
+     inkscape:cx="270.53525"
+     inkscape:cy="-31.827676"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="1913"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g7" />
+  <title
+     id="title">Programmatic access via OLS API</title>
+  <desc
+     id="desc">Three vector icons representing browser code, terminal access, and curly braces connected by a dashed fork connector, with the label programmatic access via OLS API.</desc>
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .label { font-family: Arial, Helvetica, sans-serif; fill: #2f3b4f; text-anchor: middle; }
+      .dark { fill: #334259; }
+      .dark2 { fill: #2f3b4f; }
+      .teal { fill: #11aec6; }
+      .teal-stroke { stroke: #11aec6; }
+      .blue { fill: #2877ff; }
+      .fork { fill: none; stroke: #11aec6; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; stroke-dasharray: 7 8; }
+      .icon-stroke-dark { stroke: #334259; stroke-width: 3; stroke-linejoin: round; }
+      .icon-stroke-teal { stroke: #11aec6; stroke-width: 3; stroke-linejoin: round; }
+    </style>
+  </defs>
+  <!-- dashed fork connector -->
+  <!-- left browser/code icon -->
+  <g
+     transform="translate(50 58)"
+     id="g7">
+    <rect
+       x="0"
+       y="0"
+       width="82"
+       height="82"
+       rx="10"
+       class="dark"
+       id="rect1" />
+    <rect
+       x="0"
+       y="0"
+       width="82"
+       height="18"
+       rx="10"
+       class="dark2"
+       id="rect2" />
+    <rect
+       x="0"
+       y="9"
+       width="82"
+       height="73"
+       rx="0"
+       fill="#ffffff"
+       id="rect3" />
+    <path
+       d="M0 10 Q0 0 10 0 H72 Q82 0 82 10 V18 H0 Z"
+       class="dark2"
+       id="path3" />
+    <circle
+       cx="10"
+       cy="9"
+       r="3.6"
+       fill="#ff5b58"
+       id="circle3" />
+    <circle
+       cx="24"
+       cy="9"
+       r="3.6"
+       fill="#f3c949"
+       id="circle4" />
+    <circle
+       cx="38"
+       cy="9"
+       r="3.6"
+       fill="#57d04d"
+       id="circle5" />
+    <path
+       d="M 25.309501,61.289384 13.163677,48.223845 25.309501,35.158306"
+       fill="none"
+       stroke="#2877ff"
+       stroke-width="6.32062"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path5" />
+    <path
+       d="M 45.317859,33.852804 34.491671,63.144585"
+       fill="none"
+       stroke="#2877ff"
+       stroke-width="5.69496"
+       stroke-linecap="round"
+       id="path6" />
+    <path
+       d="M 55.471758,35.146708 67.642522,48.08642 55.471758,61.026133"
+       fill="none"
+       stroke="#2877ff"
+       stroke-width="6.29658"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path7" />
+    <rect
+       x="1.5"
+       y="1.5"
+       width="79"
+       height="79"
+       rx="10"
+       fill="none"
+       stroke="#334259"
+       stroke-width="3"
+       id="rect7" />
+  </g>
+  <!-- center terminal icon -->
+  <g
+     transform="translate(169 58)"
+     id="g9">
+    <rect
+       x="0"
+       y="0"
+       width="82"
+       height="82"
+       rx="10"
+       class="dark"
+       id="rect8" />
+    <path
+       d="M 11,11 26,22 11,33"
+       fill="none"
+       stroke="#29c4e8"
+       stroke-width="6"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path8" />
+    <path
+       d="M 36,32 H 52"
+       fill="none"
+       stroke="#e4edf1"
+       stroke-width="6"
+       stroke-linecap="round"
+       id="path9" />
+    <rect
+       x="1.5"
+       y="1.5"
+       width="79"
+       height="79"
+       rx="10"
+       fill="none"
+       stroke="#2f3b4f"
+       stroke-width="3"
+       id="rect9" />
+  </g>
+  <!-- right braces icon -->
+  <g
+     transform="translate(288 58)"
+     id="g11">
+    <rect
+       x="0"
+       y="0"
+       width="82"
+       height="82"
+       rx="10"
+       fill="#ffffff"
+       stroke="#11aec6"
+       stroke-width="4"
+       id="rect10" />
+    <path
+       d="m 32.798956,17.994778 c -6,0 -8,2 -8,8 v 6 c 0,5 -3,8 -8,8 5,0 8,3 8,8 v 6 c 0,6 2,8 8,8"
+       fill="none"
+       stroke="#11aec6"
+       stroke-width="6"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path10" />
+    <path
+       d="m 50.986945,17.694517 c 6,0 8,2 8,8 v 6 c 0,5 3,8 8,8 -5,0 -8,3 -8,8 v 6 c 0,6 -2,8 -8,8"
+       fill="none"
+       stroke="#11aec6"
+       stroke-width="6"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path11" />
+  </g>
+  <!-- label -->
+</svg>
